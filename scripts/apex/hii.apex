@@ -1,0 +1,1 @@
+DemoClass d = new DemoClass();
